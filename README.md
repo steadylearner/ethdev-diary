@@ -10,3 +10,5 @@ I will continue until I get first job with this.
 ## Code 
 
 * [Read the source code of Solidity patterns.](https://github.com/fravoll/solidity-patterns)
+* [Make a frontend code and tests for the Solidity official examples](https://solidity.readthedocs.io/en/v0.6.10/solidity-by-example.html)
+* [Find some interesting projects at dappuniversity GitHub.](https://github.com/dappuniversity)
