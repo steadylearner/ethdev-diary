@@ -6,6 +6,9 @@ I will continue until I get first job with this.
 
 * Code first section of [CryptoZombie](https://cryptozombies.io/en/) to learn Solidity.
 * Follow [Dapp Tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial) to set up development environment with Promise API.(The last process is outdated?, Some Solidity syntax is different from current version.)
+* Read [React example.](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
+* Code the second section of [CryptoZombie](https://cryptozombies.io/en/) to learn oracle.
+* Find how to scrape https://www.dappuniversity.com/articles sub paths for blog posts.
 
 ## Code
 
