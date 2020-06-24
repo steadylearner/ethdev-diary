@@ -1,3 +1,4 @@
+// truffle compile
 // truffle migrate
 // truffle migrate --reset
 

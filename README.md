@@ -6,8 +6,6 @@ I will continue until I get first job with this.
 
 * Code first section of [CryptoZombie](https://cryptozombies.io/en/) to learn Solidity.
 * Follow [Dapp Tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial) to set up development environment with Promise API.(The last process is outdated?, Some Solidity syntax is different from current version.)
-* Read [Blockchain Tutorial](https://www.dappuniversity.com/articles/blockchain-app-tutorial) to use async await and the latest code.
-* Find React example.
 
 ## Code
 
