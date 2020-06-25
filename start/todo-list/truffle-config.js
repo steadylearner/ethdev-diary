@@ -1,4 +1,12 @@
+// truffle init
 // Connect to ganache local blockchain.
+
+// https://cryptozombies.io/pt/lesson/10/chapter/5
+// truffle migrate --network rinkeby 
+// truffle migrate --network mainnet
+
+// https://cryptozombies.io/pt/lesson/10/chapter/7
+// https://cryptozombies.io/pt/lesson/10/chapter/10
 
 module.exports = {
   networks: {
