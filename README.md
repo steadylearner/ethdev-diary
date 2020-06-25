@@ -8,11 +8,8 @@ I will continue until I get first job with this.
 * Follow [Dapp Tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial) to set up development environment with Promise API.(The last process is outdated?, Some Solidity syntax is different from current version.)
 * Read [React example.](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
 * Code the second section(truffle, ganache) of the [CryptoZombie](https://cryptozombies.io/en/) course.
-
-## Wallet
-
-* Metamask
-* [truffle](https://github.com/trufflesuite/truffle-hdwallet-provider)
+* [Read the official documenation for Solidty](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html) and [Truffle](https://www.trufflesuite.com/docs/truffle/getting-started/debugging-your-contracts)
+* You can inherit from the existing contracts. Read [OpenZepplin Documenation](https://docs.openzeppelin.com/contracts/3.x/) and find more.
 
 ## Code
 
@@ -24,3 +21,12 @@ I will continue until I get first job with this.
 ## Deployment
 
 * [Infura](https://infura.io/) and [Cryptozombie course for it](https://cryptozombies.io/pt/lesson/10/chapter/2)
+
+## Read more
+
+Refer to them.
+
+### Wallet
+
+* Metamask
+* [truffle](https://github.com/trufflesuite/truffle-hdwallet-provider)
