@@ -1,14 +1,15 @@
 # Record of eth learning process
 
-I will continue until I get the first eth job with this.
+I will continue until I get the first eth job with this. If I will, you can also get a job following this repoitory.
 
 ## Start
 
+* [Search and read information for Object Oriented Programming.](https://www.google.com/search?&q=what+is+obejct+oriented+programming)
 * Code the first section of the [CryptoZombie](https://cryptozombies.io/en/) to learn Solidity.
-* Follow [Dapp Tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial) to set up development environment with Promise API.(The last process is outdated?, Some Solidity syntax is different from current version.)
+* Follow [Dapp Tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial) to set up development environment with Promise API.(The last process is outdated?, Some Solidity syntax is different from the current version.)
 * Read [React example.](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
 * Code the second section(truffle, ganache) of the [CryptoZombie](https://cryptozombies.io/en/) course.
-* [Read the official documenation for Solidty](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html) and [Truffle](https://www.trufflesuite.com/docs/truffle/getting-started/debugging-your-contracts)
+* [Read the official documenation for Solidty](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html) and foucs on [contract](https://solidity.readthedocs.io/en/latest/contracts.html#), [units and global variables](https://solidity.readthedocs.io/en/latest/units-and-global-variables.html) and [Solidity by examples](https://solidity.readthedocs.io/en/latest/solidity-by-example.html) part. Then, read [Truffle documenation](https://www.trufflesuite.com/docs/truffle/getting-started/debugging-your-contracts) 
 * [You can inherit from the existing contracts.](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts) Read [OpenZepplin Documenation](https://docs.openzeppelin.com/contracts/3.x/) and find more.
 * [Building a fully decentralized User profile app on Ethereum and IPFS](https://medium.com/@sebinatx/building-a-fully-decentralized-user-profile-dapp-on-ethereum-and-ipfs-e55afac35718)
 * [Never Use Passwords Again with Ethereum and Metamask](https://hackernoon.com/never-use-passwords-again-with-ethereum-and-metamask-b61c7e409f0d)
