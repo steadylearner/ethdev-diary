@@ -1,6 +1,6 @@
 # Record of eth learning process
 
-I will continue until I get first job with this.
+I will continue until I get the first eth job with this.
 
 ## Start
 
@@ -12,8 +12,8 @@ I will continue until I get first job with this.
 * [You can inherit from the existing contracts.](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts) Read [OpenZepplin Documenation](https://docs.openzeppelin.com/contracts/3.x/) and find more.
 * [Building a fully decentralized User profile app on Ethereum and IPFS](https://medium.com/@sebinatx/building-a-fully-decentralized-user-profile-dapp-on-ethereum-and-ipfs-e55afac35718)
 * [Never Use Passwords Again with Ethereum and Metamask](https://hackernoon.com/never-use-passwords-again-with-ethereum-and-metamask-b61c7e409f0d)
-* [Solidty Crud](https://medium.com/robhitchens/solidity-crud-part-1-824ffa69509a)
-* [ifps doucmenation](https://ipfs.io/) and [js-ipfs](https://github.com/ipfs/js-ipfs)
+* [Solidity Crud](https://medium.com/robhitchens/solidity-crud-part-1-824ffa69509a)
+* [ifps doucmenation](https://ipfs.io/) and [js-ipfs](https://github.com/ipfs/js-ipfs) or [go-ipfs](https://github.com/ipfs/go-ipfs)
 
 ## Code
 
