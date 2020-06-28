@@ -18,9 +18,9 @@ I am complete beginner to Ethereum and crypto relevant tech. I will continue unt
 
 ## Code
 
-* Make your first project after Solidity by example and with-ipfs example.(Hello, Counter with Library etc, Job board etc.)
+* Make your first project after Solidity by example and with-ipfs example.(Hello, Counter with Library, Job board etc.)
 * [Read the source code of Solidity patterns.](https://github.com/fravoll/solidity-patterns)
-* [Make a frontend code and tests]((https://github.com/pbrudny/learning-solidity-2018)
+* [Make a frontend code and tests.](https://github.com/pbrudny/learning-solidity-2018)
 * [Find some interesting projects at dappuniversity GitHub](https://github.com/dappuniversity) and other.
 
 ## Deployment
