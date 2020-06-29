@@ -23,13 +23,18 @@ You can support it with Bitcoin.
 * [Never Use Passwords Again with Ethereum and Metamask](https://hackernoon.com/never-use-passwords-again-with-ethereum-and-metamask-b61c7e409f0d)
 * [Solidity Crud](https://medium.com/robhitchens/solidity-crud-part-1-824ffa69509a)
 * [ifps doucmenation](https://ipfs.io/) and [js-ipfs](https://github.com/ipfs/js-ipfs) or [go-ipfs](https://github.com/ipfs/go-ipfs)
-
-## Code
-
-* Make your first project after Solidity by example and with-ipfs example.(Hello, Counter with Library, Job board etc.)
 * [Read the source code of Solidity patterns.](https://github.com/fravoll/solidity-patterns)
 * [Make a frontend code and tests.](https://github.com/pbrudny/learning-solidity-2018)
 * [Find some interesting projects at dappuniversity GitHub](https://github.com/dappuniversity) and other.
+
+## Code
+
+1. Getter and Setter
+2. Hello, World
+3. Counter with Library
+4. Install and learn IPFS.
+5. Follow the with-ipfs project and update it.
+6. Make a job board with login and CRUD.
 
 ## Deployment
 
@@ -39,6 +44,11 @@ You can support it with Bitcoin.
 
 * [Metamask](https://www.google.com/search?&q=metamask)
 * [truffle](https://github.com/trufflesuite/truffle-hdwallet-provider)
+
+## Invest
+
+* [Earn interest](https://cryptobriefing.com/yield-farming-defi-beginners-guide-earning-interest-crypto/)
+
 
 ## Read More 
 
