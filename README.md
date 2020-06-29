@@ -2,14 +2,22 @@
 
 I am complete beginner to Ethereum and crypto relevant tech. I will continue until I get a job with this. If I could, you will also able to get a job following this repository.
 
+If you want the similar one for Rust, you can refer to [the Rust Full Stack](https://github.com/steadylearner/Rust-Full-Stack) Repository.
+
+You can support it with Bitcoin.
+
+```console
+1ESPcN8eQs8mXYYgbYysg9whzY4k3scSpy	
+```
+
 ## Start
 
 * [Search and read information for Object Oriented Programming.](https://www.google.com/search?&q=what+is+obejct+oriented+programming)
-* Code the first section of the [CryptoZombie](https://cryptozombies.io/en/) to learn Solidity.
+* Code the first section of the [CryptoZombie](https://cryptozombies.io/en/) to learn Solidity and [the official ethereum build page](https://ethereum.org/en/build/)
 * Follow [Dapp Tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial) to set up development environment with Promise API.(The last process is outdated?, Some Solidity syntax is different from the current version.)
 * Read [React example.](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
 * Code the second section(truffle, ganache) of the [CryptoZombie](https://cryptozombies.io/en/) course.
-* [Read the official documenation for Solidty](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html) and foucs on [contract](https://solidity.readthedocs.io/en/latest/contracts.html#), [units and global variables](https://solidity.readthedocs.io/en/latest/units-and-global-variables.html) and [Solidity by example](https://solidity.readthedocs.io/en/latest/solidity-by-example.html) part. Then, read [Truffle documenation](https://www.trufflesuite.com/docs/truffle/getting-started/debugging-your-contracts) 
+* [Read the official documenation for Solidty](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html) and foucs on [contract](https://solidity.readthedocs.io/en/latest/contracts.html#), [units and global variables](https://solidity.readthedocs.io/en/latest/units-and-global-variables.html) and [Solidity by example](https://solidity.readthedocs.io/en/latest/solidity-by-example.html#safe-remote-purchase) part. Then, read [Truffle documenation](https://www.trufflesuite.com/docs/truffle/getting-started/debugging-your-contracts) 
 * [You can inherit from the existing contracts.](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts) Read [OpenZepplin Documenation](https://docs.openzeppelin.com/contracts/3.x/) and find more.
 * [Building a fully decentralized User profile app on Ethereum and IPFS](https://medium.com/@sebinatx/building-a-fully-decentralized-user-profile-dapp-on-ethereum-and-ipfs-e55afac35718)
 * [Never Use Passwords Again with Ethereum and Metamask](https://hackernoon.com/never-use-passwords-again-with-ethereum-and-metamask-b61c7e409f0d)
@@ -29,7 +37,7 @@ I am complete beginner to Ethereum and crypto relevant tech. I will continue unt
 
 ## Wallet
 
-* Metamask
+* [Metamask](https://www.google.com/search?&q=metamask)
 * [truffle](https://github.com/trufflesuite/truffle-hdwallet-provider)
 
 ## Read More 
