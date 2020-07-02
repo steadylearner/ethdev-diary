@@ -1,0 +1,8 @@
+# Should update this.
+
+node_modules/
+
+# From truffle compile, migrate etc.
+build/
+
+*.log
