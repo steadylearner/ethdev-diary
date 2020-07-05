@@ -75,10 +75,10 @@ $truffle migrate --reset
 
 ## IPFS
 
-* [Why IPFS](https://www.youtube.com/watch?v=zE_WSLbqqvo), [IPFS companion browser extension](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/), [Pinata](https://www.google.com/search?&q=pinata+ipfs) or Filecoin to save data
-* [Official documenation](https://docs.ipfs.io/), [go-ipfs](https://github.com/ipfs/go-ipfs), [js-ipfs](https://github.com/ipfs/js-ipfs)
-* [Decentralized web primer](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/)
+* [Why IPFS](https://www.youtube.com/watch?v=zE_WSLbqqvo), [IPFS companion browser extension](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/), [Pinata](https://www.google.com/search?&q=pinata+ipfs) or Filecoin(I am not sure this will be worth your time.) to save data
+* [Official documenation](https://docs.ipfs.io/), Learn commands with [Decentralized web primer](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/)
 * [Tutorials](https://proto.school/#/tutorials)
+* [go-ipfs](https://github.com/ipfs/go-ipfs), [js-ipfs](https://github.com/ipfs/js-ipfs)
 
 ## Read More 
 
