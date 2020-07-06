@@ -56,6 +56,7 @@ $truffle migrate --reset
 * [Hello with a pure function.](https://github.com/steadylearner/ethdev-diary/tree/master/code/hello)
 * [Minimal Example with a getter and setter to handle data.](https://github.com/steadylearner/ethdev-diary/tree/master/code/storage)
 * [Test modifier imported from another contract.](https://github.com/steadylearner/ethdev-diary/tree/master/code/counter)
+* [Remote purchase example with tests](https://github.com/steadylearner/ethdev-diary/tree/master/start/purchase)
 * Follow the with-ipfs project and update it with the latest code.
 * Make a job board with login and CRUD.
 
