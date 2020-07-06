@@ -10,6 +10,13 @@ You can support it with Bitcoin.
 1ESPcN8eQs8mXYYgbYysg9whzY4k3scSpy	
 ```
 
+## The current state of this repository
+
+* Read webpack example with ipfs.
+* Make a minimal parcel React example with orbitdb.
+* Code a remote purchase example with frontend code.
+* Write a job board with login and CRUD for freelancers.
+
 ## Start
 
 * [Search and read information for Object Oriented Programming.](https://www.google.com/search?&q=what+is+obejct+oriented+programming)

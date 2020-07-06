@@ -6,3 +6,6 @@ node_modules/
 build/
 
 *.log
+
+orbitdb/
+js-ipfs/
