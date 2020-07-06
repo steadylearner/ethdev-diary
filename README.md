@@ -56,7 +56,6 @@ $truffle migrate --reset
 * [Hello with a pure function.](https://github.com/steadylearner/ethdev-diary/tree/master/code/hello)
 * [Minimal Example with a getter and setter to handle data.](https://github.com/steadylearner/ethdev-diary/tree/master/code/storage)
 * [Test modifier imported from another contract.](https://github.com/steadylearner/ethdev-diary/tree/master/code/counter)
-* Install and learn IPFS.
 * Follow the with-ipfs project and update it with the latest code.
 * Make a job board with login and CRUD.
 
@@ -79,6 +78,7 @@ $truffle migrate --reset
 * [Official documenation](https://docs.ipfs.io/), Learn commands with [Decentralized web primer](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/)
 * [Tutorials](https://proto.school/#/tutorials)
 * [go-ipfs](https://github.com/ipfs/go-ipfs), [js-ipfs](https://github.com/ipfs/js-ipfs)
+* [OrbitDB](https://github.com/orbitdb/orbit-db) and [a blog post for it.](https://medium.com/@rossbulat/orbitdb-deploying-the-distributed-ipfs-database-with-react-79afa1a7fabb)
 
 ## Read More 
 
