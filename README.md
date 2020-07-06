@@ -79,6 +79,7 @@ $truffle migrate --reset
 * [Tutorials](https://proto.school/#/tutorials)
 * [go-ipfs](https://github.com/ipfs/go-ipfs), [js-ipfs](https://github.com/ipfs/js-ipfs)
 * [OrbitDB](https://github.com/orbitdb/orbit-db) and [a blog post for it.](https://medium.com/@rossbulat/orbitdb-deploying-the-distributed-ipfs-database-with-react-79afa1a7fabb)
+* [pubsub](https://blog.ipfs.io/25-pubsub/)
 
 ## Read More 
 
