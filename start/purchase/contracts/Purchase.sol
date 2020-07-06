@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.4.21 <0.7.0;
 
+// https://solidity.readthedocs.io/en/latest/solidity-by-example.html#safe-remote-purchase
 contract Purchase {
     uint public value;
     address payable public seller;
