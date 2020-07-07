@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <script src="./app.js"></script>
+    <title>Profiles</title>
+  </head>
+  <body>
+
+    <nav class="navbar navbar-expand-lg navbar-primary bg-light">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <a class="navbar-brand" href="#">Profiles</a>
+
+      <div class="collapse navbar-collapse" id="navbarToggler">
+        <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+          <li class="nav-item active">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+
+      <div class="alert alert-warning mt-3" role="alert">
+        This prototype is meant for demonstrations purposes only. Use at your own risk. When you create a profile, your information is publicly stored on the Ethereum blockchain, stored on IPFS, and displayed on this website.
+      </div>
+
+      <div class="row">
+
+        <div class="col-lg-3 mt-1 mb-1">
+          <div class="card card-profile-signup p-1">
+
+            <form>
+
+              <div class="card-body">
+                <h5 class="card-title">Create your profile</h5>
+
+                <div class="form-group">
+                  <label for="username">Username</label>
+                  <input type="text" class="form-control" id="sign-up-username" required="required">
+                </div>
+
+                <div class="form-group">
+                  <label for="username">Title</label>
+                  <input type="text" class="form-control" id="sign-up-title">
+                </div>
+                 
+                <div class="form-group">
+                  <label for="username">Short intro</label>
+                  <textarea class="form-control" id="sign-up-intro" rows="2"></textarea>
+                </div>
+
+                <p>
+                  ETH Address:
+                  <span class="eth-address"></span>
+                    <input type="text" class="form-control" id="sign-up-eth-address" value="0x..." disabled>
+                  </p>
+                </p>          
+
+                <button type="submit" class="btn btn-primary" id="sign-up-button">Sign Up</button>                                
+              </div>
+
+            </form>
+
+          </div>
+        </div>
+
+        <div class="col-lg-9 mt-1 mb-1" id="users-div">
+        </div>
+
+      </div>
+
+    </div>
+
+    <footer class="footer">
+      <div class="container">
+        <span class="text-muted">A demo dapp.</span>
+      </div>
+    </footer>
+
+  </body>
+</html>
