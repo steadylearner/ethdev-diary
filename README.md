@@ -12,9 +12,8 @@ You can support it with Bitcoin.
 
 ## The current state of this repository
 
-* Read webpack example with ipfs.
-* Make a minimal parcel React example with orbitdb.
-* Code a remote purchase example with frontend code.
+* Make a minimal parcel React example with IPFS by using with_ipfs/ example.
+* Code a remote purchase example with React and an image of a real product.
 * Write a job board with login and CRUD for freelancers.
 
 ## Start
