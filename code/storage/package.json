@@ -1,0 +1,17 @@
+{
+  "name": "getter-and-setter",
+  "version": "1.0.0",
+  "description": "Your first eth proejct with a contract and test for it.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "nodemon": "^1.17.3",
+    "truffle": "5.0.2",
+    "truffle-contract": "3.0.6"
+  }
+}
