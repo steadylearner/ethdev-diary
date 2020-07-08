@@ -12,7 +12,7 @@ You can support it with Bitcoin.
 
 ## The current state of this repository
 
-* Make a minimal parcel React example with IPFS by using with_ipfs/ example.
+* [Make a minimal parcel React example with IPFS by using with_ipfs/ example.](https://medium.com/fullstacked/connect-react-to-ethereum-b117986d56c1)
 * Code a remote purchase example with React and an image of a real product.
 * Write a job board with login and CRUD for freelancers.
 
