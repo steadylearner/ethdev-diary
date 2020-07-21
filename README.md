@@ -21,16 +21,18 @@ You can support it with Bitcoin.
 * [Search and read information for Object Oriented Programming.](https://www.google.com/search?&q=what+is+obejct+oriented+programming)
 * Code the first section of the [CryptoZombie](https://cryptozombies.io/en/) to learn Solidity and [the official ethereum build page](https://ethereum.org/en/build/)
 * Follow [Dapp Tutorial](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial) to set up development environment with Promise API.(The last process is outdated?, Some Solidity syntax is different from the current version.)
-* Read [React example.](https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial)
 * Code the second section(truffle, ganache) of the [CryptoZombie](https://cryptozombies.io/en/) course.
 * [Read the official documenation for Solidty](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html) and foucs on [contract](https://solidity.readthedocs.io/en/latest/contracts.html#), [units and global variables](https://solidity.readthedocs.io/en/latest/units-and-global-variables.html) and [Solidity by example](https://solidity.readthedocs.io/en/latest/solidity-by-example.html#safe-remote-purchase) part. Then, read [Truffle documenation](https://www.trufflesuite.com/docs/truffle/getting-started/debugging-your-contracts) 
 * [You can inherit from the existing contracts.](https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts) Read [OpenZepplin Documenation](https://docs.openzeppelin.com/contracts/3.x/) and find more.
+* [Ethereum Book](https://github.com/ethereumbook/ethereumbook)
+* https://swcregistry.io/
 * [Building a fully decentralized User profile app on Ethereum and IPFS](https://medium.com/@sebinatx/building-a-fully-decentralized-user-profile-dapp-on-ethereum-and-ipfs-e55afac35718)
 * [Never Use Passwords Again with Ethereum and Metamask](https://hackernoon.com/never-use-passwords-again-with-ethereum-and-metamask-b61c7e409f0d)
 * [Solidity Crud](https://medium.com/robhitchens/solidity-crud-part-1-824ffa69509a)
 * [Read the source code of Solidity patterns.](https://github.com/fravoll/solidity-patterns)
 * [Make a frontend code and tests.](https://github.com/pbrudny/learning-solidity-2018)
 * [Find some interesting projects at dappuniversity GitHub](https://github.com/dappuniversity) and other.
+
 
 ## Code
 
@@ -67,6 +69,10 @@ $truffle migrate --reset
 * Follow the with-ipfs project and update it with the latest code.
 * Make a job board with login and CRUD.
 
+## Security
+
+* [Ethereum Best Practices](https://consensys.github.io/smart-contract-best-practices/known_attacks/#integer-overflow-and-underflow)
+
 ## Deployment
 
 * [Infura](https://infura.io/) and [Cryptozombie course for it](https://cryptozombies.io/pt/lesson/10/chapter/2)
@@ -95,6 +101,5 @@ $truffle migrate --reset
 * [eth dev reading list](https://github.com/yippee-ki-yay/eth-dev-reading-list)
 * [Designing the architecture for your Ethereum application](https://blog.openzeppelin.com/designing-the-architecture-for-your-ethereum-application-9cec086f8317/)
 * [How Ethereum Works](https://consensys.net/blog/blockchain-explained/how-ethereum-works-part-2-smart-contracts-gas-and-dapps/)
-* [Ethereum Book](https://github.com/ethereumbook/ethereumbook)
 * [How Bitcoin Works Under the Hood](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html)
 * [Bitcoin Book](https://github.com/bitcoinbook/bitcoinbook)
